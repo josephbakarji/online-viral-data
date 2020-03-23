@@ -1,6 +1,6 @@
 ## Description ##
 
-This code scrapes coronavirus data and plots it. Data could is to be used as part of financial, social, viral spreading models etc. 
+This code scrapes coronavirus data and plots it. Data is to be used as part of financial, social, viral spreading models etc. 
 
 ## Usage ##
 
