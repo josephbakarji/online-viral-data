@@ -18,8 +18,10 @@ This code scrapes coronavirus data and plots it. Data could is to be used as par
 
 ## TO DO ##
 
-* Save US data in [Worldometer](https://www.worldometers.info/coronavirus/us/).
-* Fix plotting axes: time needs to be displayed as (Day Month) like: March 20.
+* Save U.S data from [worldometers.info](https://www.worldometers.info/coronavirus/country/us/).
+* Fix plotting axes: time has to be displayed as (Day Month) like: 20 March.
 * Specify time period and make sure data points are regular.
+* Add previous data from links.
+* Explore using other sources.
 
 ...
